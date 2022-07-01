@@ -1,7 +1,7 @@
 ### Hello folks,
 
 [![Ask Abir](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)][mail]
-[![Abir's DC](https://badgen.net/discord/online-members/fxhmHJXvzM)][dc]
+[![Abir's DC](https://discord.gg/c5MwQQ6q)][dc]
 
 It's SM Abir Chowdhury. A humble programmer focussed on creatures related to web.
 
