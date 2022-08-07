@@ -1852,7 +1852,7 @@ Co-Authored-By: Shawon Krishna Saha &lt;105492531+hira-saha@users.noreply.github
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.84924623115578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.628140703517595 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1874,10 +1874,10 @@ Co-Authored-By: Shawon Krishna Saha &lt;105492531+hira-saha@users.noreply.github
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">65</div>
+                                        <div class="value">66</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 65 times</div>
+                                <div class="text">Repositories have been deployed 66 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2263,7 +2263,7 @@ Co-Authored-By: Shawon Krishna Saha &lt;105492531+hira-saha@users.noreply.github
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 08:55:34 (timezone Asia/Dhaka) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 09:39:43 (timezone Asia/Dhaka) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
