@@ -2,6 +2,8 @@
 <div align="center">
 
   <h1>Welcome To My Github Profile</h1>
+
+<p align="center"><a href="https://metrics.lecoq.io/insights?user=youknowme2"><img src="/github-metrics.svg" alt="Metrics"></a></p>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <br>
   
@@ -13,5 +15,3 @@
   <a href="https://skyline.github.com/youknowme2/2022" target="blank"> View 3D Model</a>
  
   </div>
-
-<p align="center"><a href="https://metrics.lecoq.io/insights?user=youknowme2"><img src="/github-metrics.svg" alt="Metrics"></a></p>
