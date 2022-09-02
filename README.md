@@ -14,4 +14,4 @@
  
   </div>
 
-![Metrics](/github-metrics.svg)
+<p align="center"><a href="https://metrics.lecoq.io/insights?user=youknowme2"><img src="/github-metrics.svg" alt="Metrics"></a></p>
