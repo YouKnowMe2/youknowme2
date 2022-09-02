@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 <div align="center">
 
   <h1>Welcome To My Github Profile</h1>
@@ -14,3 +14,4 @@
  
   </div>
 
+![Metrics](/github-metrics.svg)
